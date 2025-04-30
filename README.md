@@ -6,7 +6,9 @@
 
 ---
 
-## 🔥 GitHub Streak
+## 💻 Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=demicarata&layout=compact&theme=radical)
 
 
 <!--
