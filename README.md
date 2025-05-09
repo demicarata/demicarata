@@ -45,8 +45,8 @@
 
 ## 📊 GitHub Stats
 <p align="left">
-   <img src="https://github-readme-stats.vercel.app/api?username=demicarata&show_icons=true&theme=gruvbox" style="margin-right: 10px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=demicarata&layout=compact&theme=gruvbox" />
+   <img src="https://github-readme-stats.vercel.app/api?username=demicarata&show_icons=true&theme=gruvbox&cache_bust=12345" style="margin-right: 10px; height: 200px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=demicarata&layout=compact&theme=gruvbox&cache_bust=12345" style="height: 200px;"/>
 </p>
 
           
