@@ -1,5 +1,5 @@
 ## About me
-[TO DO]
+I have a computer
 
 
 ## Tools that I worked with
